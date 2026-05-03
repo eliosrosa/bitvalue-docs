@@ -1,4 +1,5 @@
-Política de Privacidade - BitValue
+Política de Privacidade - BitValue 
+
 Última atualização: 03 de maio de 2026
 
 O BitValue é uma plataforma dedicada à curadoria de mídia física, focada em analisar a história e a importância cultural dos jogos eletrônicos. Esta política descreve como tratamos seus dados para fornecer uma experiência de preservação informativa e segura.
