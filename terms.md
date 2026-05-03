@@ -7,9 +7,9 @@ Bem-vindo ao **BitValue**. Estes Termos de Uso regem o acesso e a utilização d
 ## 1. Objeto e Modelos de Acesso
 O BitValue disponibiliza ferramentas de análise assistida por Inteligência Artificial (Google Gemini) focadas na preservação e importância histórica de videojogos. O acesso é segmentado pelos seguintes níveis:
 
-*   **Modo FREE:** Acesso básico com limite de 10 cotas de análise.
-*   **Modo PRO:** Assinatura mensal com limite de 300 cotas de análise.
-*   **Modo RESELLER:** Assinatura mensal com limite de 1.000 cotas de análise.
+*   **Modo FREE:** Acesso básico com limite mensal de 10 cotas de geração de card.
+*   **Modo PRO:** Assinatura mensal com limite de 300 cotas de geração de card.
+*   **Modo RESELLER:** Assinatura mensal com limite de 1.000 cotas de geração de card.
 
 ## 2. Regras de Cotas e Ciclo de Uso
 *   **Natureza não acumulativa:** As cotas de análise são vinculadas ao ciclo de faturamento mensal e **não são acumulativas**. 
@@ -24,7 +24,7 @@ O BitValue disponibiliza ferramentas de análise assistida por Inteligência Art
 ## 4. Natureza da Análise e Isenção de Responsabilidade
 *   **Foco Histórico:** O BitValue analisa o valor intrínseco, a raridade técnica e a importância cultural de um título.
 *   **Isenção Financeira:** O BitValue **não atua com valores monetários**, não fornece cotações de mercado ou aconselhamento financeiro.
-*   **Disclaimer de IA:** O sistema utiliza tecnologia de Inteligência Artificial que pode apresentar imprecisões técnicas ou alucinações. As análises devem ser validadas pelo colecionador e não constituem fatos absolutos.
+*   **Disclaimer de IA:** O sistema utiliza tecnologia de Inteligência Artificial que pode apresentar imprecisões técnicas ou alucinações. As gerações de cards devem ser validadas pelo colecionador e não constituem fatos absolutos.
 
 ## 5. Pagamentos e Infraestrutura
 *   **Processamento Externo:** Todas as transações são processadas exclusivamente pela infraestrutura da Google Play Store. O BitValue não armazena dados de cartão de crédito.
