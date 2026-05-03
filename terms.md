@@ -7,10 +7,9 @@ Bem-vindo ao **BitValue**. Estes Termos de Uso regem o acesso e a utilização d
 ## 1. Objeto e Modelos de Acesso
 O BitValue é uma plataforma de curadoria assistida por Inteligência Artificial focada na preservação e análise da história de mídias físicas de videojogos. O acesso é segmentado pelos seguintes níveis:
 
-*   **Modo FREE:** Acesso básico com limite de 10 cotas de análise.
-*   **Modo PRO:** Assinatura mensal (R$ 29,90) com limite de 300 cotas de análise.
-*   **Modo RESELLER:** Assinatura mensal (R$ 79,90) com limite de 1.000 cotas de análise.
-*   **Modo BETA (Nível 50):** Acesso exclusivo para testadores convidados, com cota de 5.000 análises durante o período de teste fechado.
+*   **Modo FREE:** Acesso básico com limite mensal de 10 cotas de geração de card.
+*   **Modo PRO:** Assinatura mensal (R$ 29,90) com limite de 300 cotas de geração de card.
+*   **Modo RESELLER:** Assinatura mensal (R$ 79,90) com limite de 1.000 cotas de geração de card.
 
 ## 2. Natureza da Análise e Isenção de Responsabilidade (Disclaimer)
 *   **Foco Histórico:** O BitValue analisa o valor intrínseco, a raridade técnica e a importância cultural de um título no mundo dos games.
@@ -18,8 +17,8 @@ O BitValue é uma plataforma de curadoria assistida por Inteligência Artificial
 *   **Limitações da IA:** O usuário reconhece que o sistema utiliza a tecnologia **Google Gemini**. Como toda Inteligência Artificial, o sistema pode cometer erros, apresentar imprecisões históricas ou gerar informações incorretas (alucinações). As análises devem ser validadas pelo colecionador e não constituem fatos absolutos.
 
 ## 3. Funcionalidades e Conduta do Usuário
-*   **Captura e Upload:** O usuário é responsável pela legalidade das imagens capturadas via câmera ou carregadas da galeria para análise.
-*   **Compartilhamento via QR Code:** A funcionalidade de QR Code destina-se exclusivamente ao compartilhamento de metadados históricos e informativos entre usuários do aplicativo.
+*   **Captura e Upload:** O usuário é responsável pela legalidade das imagens capturadas via câmera ou carregadas da galeria para geração de cards.
+*   **Compartilhamento via QR Code:** A funcionalidade de QR Code destina-se exclusivamente ao compartilhamento de card entre usuários do aplicativo.
 *   **Geolocalização:** O registro de GPS é utilizado estritamente para o controle logístico pessoal da localização física dos ativos na coleção do usuário.
 
 ## 4. Pagamentos e Assinaturas
