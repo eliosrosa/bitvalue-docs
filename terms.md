@@ -10,7 +10,6 @@ O BitValue disponibiliza ferramentas de análise assistida por Inteligência Art
 *   **Modo FREE:** Acesso básico com limite de 10 cotas de análise.
 *   **Modo PRO:** Assinatura mensal com limite de 300 cotas de análise.
 *   **Modo RESELLER:** Assinatura mensal com limite de 1.000 cotas de análise.
-*   **Modo BETA (Nível 50):** Acesso exclusivo para testadores convidados, com cota de 5.000 análises durante o período de teste fechado.
 
 ## 2. Regras de Cotas e Ciclo de Uso
 *   **Natureza não acumulativa:** As cotas de análise são vinculadas ao ciclo de faturamento mensal e **não são acumulativas**. 
