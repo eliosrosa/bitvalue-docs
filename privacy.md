@@ -1,4 +1,4 @@
-Política de Privacidade - BitValue 
+# Política de Privacidade - BitValue 
 
 Última atualização: 03 de maio de 2026
 
