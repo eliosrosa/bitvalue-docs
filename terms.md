@@ -11,7 +11,7 @@ O BitValue é uma plataforma de curadoria assistida por Inteligência Artificial
 *   **Modo PRO:** Assinatura mensal (R$ 29,90) com limite de 300 cotas de geração de card.
 *   **Modo RESELLER:** Assinatura mensal (R$ 79,90) com limite de 1.000 cotas de geração de card.
 
-## 2. Natureza da Análise e Isenção de Responsabilidade (Disclaimer)
+## 2. Natureza da Análise e Isenção de Responsabilidade
 *   **Foco Histórico:** O BitValue analisa o valor intrínseco, a raridade técnica e a importância cultural de um título no mundo dos games.
 *   **Ausência de Valores de Mercado:** O BitValue **não atua com valores monetários**, não fornece cotações de mercado, preços de revenda ou qualquer tipo de aconselhamento financeiro.
 *   **Limitações da IA:** O usuário reconhece que o sistema utiliza a tecnologia **Google Gemini**. Como toda Inteligência Artificial, o sistema pode cometer erros, apresentar imprecisões históricas ou gerar informações incorretas (alucinações). As análises devem ser validadas pelo colecionador e não constituem fatos absolutos.
